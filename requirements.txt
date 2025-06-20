@@ -1,2 +1,6 @@
 networkx
 numpy
+transformers
+peft
+torch
+accelerate
